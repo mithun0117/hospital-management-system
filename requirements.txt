@@ -1,0 +1,15 @@
+# Hospital Management System - Requirements
+# No external dependencies required
+# Python 3.6+ is required
+
+# Standard Library Modules Used:
+# - datetime (for date and time operations)
+# - json (for potential data serialization)
+# - random (for ID generation if needed)
+
+# Installation:
+# 1. Python 3.6 or higher
+# 2. No pip packages required
+
+# Run the application:
+# python hospital_management_system.py
